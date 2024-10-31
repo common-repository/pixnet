@@ -1,0 +1,43 @@
+.sticker {
+  text-align: center;
+  overflow: hidden;
+}
+
+#sticker .desktop_league {
+  width: 250px;
+  height: 250px;
+}
+
+#sticker .desktop_league_fixed {
+  width: 125px;
+  height: 125px;
+}
+
+#sticker .desktop_rank {
+  width: 125px;
+  height: 125px;
+}
+
+#sticker .mobile_league {
+  max-width: 268px;
+  width: 80%;
+}
+
+#sticker .mobile_league_fixed {
+  width: 50%;
+}
+
+#sticker .mobile_rank {
+  width: 50%;
+  float: right;
+}
+
+.no-display {
+  display: none;
+}
+
+.sticker_link {
+  width: 250px;
+  height: 420px;
+  display: block;
+  margin: auto; }
